@@ -12,8 +12,9 @@ The API is modeled on a basic ordering system with two parts;
 1. Admin-side to create/update products, receive and manage orders
 2. The client-side to view products and create orders.
 
-The basic user stories would be as follow:
+The basic user storie would be as follow:
 
+*As a client, I can create an account and use this to log in into the platform*
 *As a client, I can view a list of products with detailed information and images regarding the said product. I would like to make an order of items and view my orders.*
 
 ### Tools provided ###
